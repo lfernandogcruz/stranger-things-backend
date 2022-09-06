@@ -21,5 +21,5 @@ class StrangerThingsService {
     return characters;
   }
 }
-// inofensive change for starting the project
+
 module.exports = StrangerThingsService;
